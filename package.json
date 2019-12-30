@@ -1,5 +1,5 @@
 {
-  "name": "string-tool",
+  "name": "string-tool-npm",
   "version": "0.0.1",
   "description": "a small and effeicient tool for string",
   "main": "index.js",
