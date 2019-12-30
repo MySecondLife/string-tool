@@ -1,0 +1,9 @@
+.env
+.DS_Store
+yarn-error.log
+yarn.lock
+package-lock.json
+
+_book
+
+node_modules
